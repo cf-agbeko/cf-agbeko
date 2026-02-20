@@ -1,16 +1,16 @@
-## Hi there 👋
+# hey, i'm Condoleezza 👾
 
-<!--
-**cf-agbeko/cf-agbeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs student @ maastricht university — building things in java, python & c#.  
+into cybersecurity, ml, and making the web look cool.
 
-Here are some ideas to get you started:
+## 🔧 currently
+- building out my portfolio site
+- active in CTF challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 stack
+**languages:** java · python · c# · sql · HTML · CSS · JavaScript  
+**tools:** git · unity ml-agents · wireshark · linux · pandas  
+**concepts:** reinforcement learning · auth systems · network protocols · OOP
+
+## more about me
+https://faf-sigma.vercel.app/
