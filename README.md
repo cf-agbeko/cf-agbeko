@@ -1,6 +1,7 @@
 # hey, i'm Condoleezza 👾
 
-cs student @ maastricht university — building things in java, python & c#.  
+cs student @ maastricht university
+building things in java, python & c#.  
 into cybersecurity, ml, and making the web look cool.
 
 ## ✎ᝰ. currently
