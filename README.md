@@ -4,8 +4,8 @@ cs student @ maastricht university — building things in java, python & c#.
 into cybersecurity, ml, and making the web look cool.
 
 ## ✎ᝰ. currently
-- building out my portfolio site
-- active in CTF challenges
+- working on personal projects
+- working hard for uni
 
 ## ⛏ stack
 **languages:** java · python · c# · sql · HTML · CSS · JavaScript  
