@@ -2,7 +2,7 @@
 
 cs student @ maastricht university
 building things in java, python & c#.  
-into cybersecurity, ml, and making the web look cool.
+into cybersecurity, ml, and making websites look cool.
 
 ## ✎ᝰ. currently
 - working on personal projects
